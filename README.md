@@ -6,4 +6,4 @@ init commit
 
 update readme.md
 
-add some comments
+add some comment
